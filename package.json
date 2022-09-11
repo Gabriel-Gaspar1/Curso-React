@@ -1,0 +1,23 @@
+{
+  "name": "curso-react",
+  "version": "1.0.0",
+  "description": "Aprendendo sobre React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Gaspar1/Curso-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Gaspar1/Curso-React/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Gaspar1/Curso-React#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1"
+  }
+}
